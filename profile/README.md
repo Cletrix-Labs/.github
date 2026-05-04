@@ -17,7 +17,7 @@
 
 ---
 
-## 🌟 Who We Are
+##  Who We Are
 
 **Cletrix Labs** is an open-source organization focused on building practical AI tools for students globally.
 
@@ -27,7 +27,7 @@ We build with **Python, AI Agents, LangChain, and Gemini API** - and everything 
 
 ---
 
-## 🚀 Our Main Project
+##  Our Main Project
 
 <div align="center">
 
@@ -35,10 +35,10 @@ We build with **Python, AI Agents, LangChain, and Gemini API** - and everything 
 
 | Feature | Description |
 |---|---|
-| 🔬 Research Agent | Auto-researches any topic and summarizes it |
-| 🌍 Language Agent | Explains concepts in 50+ languages |
-| 📅 Study Planner Agent | Builds personalized study schedules |
-| 💼 Career Agent *(coming soon)* | Resume review, job search, and interview prep |
+|  Research Agent | Auto-researches any topic and summarizes it |
+|  Language Agent | Explains concepts in 50+ languages |
+|  Study Planner Agent | Builds personalized study schedules |
+|  Career Agent *(coming soon)* | Resume review, job search, and interview prep |
 
 [![View Clextron](https://img.shields.io/badge/View%20Project-Clextron-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cletrix-Labs/Clextron)
 
@@ -46,16 +46,16 @@ We build with **Python, AI Agents, LangChain, and Gemini API** - and everything 
 
 ---
 
-## 🗂️ All Projects
+##  All Projects
 
 | Project | Description | Status |
 |---|---|---|
-| [🤖 Clextron](https://github.com/Cletrix-Labs/Clextron) | Autonomous AI agents for students | 🔨 Building |
-| [📅 study-revision-planner](https://github.com/Cletrix-Labs/study-revision-planner) | Smart study revision scheduler | ✅ Active |
+| [ Clextron](https://github.com/Cletrix-Labs/Clextron) | Autonomous AI agents for students |  Building |
+| [ study-revision-planner](https://github.com/Cletrix-Labs/study-revision-planner) | Smart study revision scheduler |  Active |
 
 ---
 
-## 🛠️ Our Tech Stack
+##  Our Tech Stack
 
 <div align="center">
 
@@ -70,15 +70,15 @@ We build with **Python, AI Agents, LangChain, and Gemini API** - and everything 
 
 ---
 
-## 🤝 Want to Contribute?
+##  Want to Contribute?
 
-We welcome contributors of **all skill levels** - beginners are especially welcome! 🙌
+We welcome contributors of **all skill levels** - beginners are especially welcome! 
 
-- ⭐ **Star** our repos to show support
-- 🐛 **Report bugs** via GitHub Issues
-- 💡 **Suggest features** - we love new ideas
-- 🔧 **Submit pull requests** - all PRs welcome
-- 💬 **Join Discussions** - share your thoughts
+-  **Star** our repos to show support
+-  **Report bugs** via GitHub Issues
+-  **Suggest features** - we love new ideas
+-  **Submit pull requests** - all PRs welcome
+-  **Join Discussions** - share your thoughts
 
 Look for issues tagged [`good-first-issue`](https://github.com/Cletrix-Labs/Clextron/issues?q=label%3Agood-first-issue) to get started!
 
